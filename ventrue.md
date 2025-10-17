@@ -105,16 +105,15 @@
 
   </details>
 
-</details>
-
- <details> 
+   <details> 
   <summary> Стойкость </summary>
 </details>
 
  <details> 
   <summary> Величие  </summary>
 </details>
-  
+
+</details>
 
 </details>
 

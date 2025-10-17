@@ -115,7 +115,7 @@
      
 </details>
 
-</details>
+
 
  <details> 
   <summary> Величие  </summary>
@@ -125,7 +125,7 @@
 
 </details>
 
-
+</details>
 
 </details>
 

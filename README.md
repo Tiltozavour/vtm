@@ -7,6 +7,8 @@
 
 Что такое.... 
 
+
+
 <details>
   <summary> <h2> Дисциплины </h2> </summary>
 

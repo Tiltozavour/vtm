@@ -1,7 +1,8 @@
+ 
+# Тореадор <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429078127082078378/1024px-Toreador_symbol.png?ex=68f4d438&is=68f382b8&hm=925a04eb5a0036dde364e90b270744a12298be2e306d5aef8b16dfc03ccb6395" width="50" alt="Превью">
 
-# Тореадор
+<img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429064620030558319/43d9c29dbce05aa5938cbda8860a23aa.jpg?ex=68f4c7a4&is=68f37624&hm=623c6dd0838e0f770c94d712a7ff90a1c9d4c289854fdc3a563501d51c3423df" width="30%" alt="Превью">
 
-![toreador](https://cdn.discordapp.com/attachments/1374311310501875752/1429064620030558319/43d9c29dbce05aa5938cbda8860a23aa.jpg?ex=68f4c7a4&is=68f37624&hm=623c6dd0838e0f770c94d712a7ff90a1c9d4c289854fdc3a563501d51c3423df)
 > «Ты сгниёшь в могиле, а я буду всё так же молод, красив и любим теми, чью жизнь озаряет сияние моей славы».
 
 **Прозвище:** Декаденты\

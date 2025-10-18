@@ -1,5 +1,5 @@
 
-# Бруха <img src="https://vtm.paradoxwikis.com/images/thumb/8/87/Brujah_symbol.png/1024px-Brujah_symbol.png?20220712195131" width="50" alt="Превью">
+# Бруха <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429074620845396008/1024px-Brujah_symbol.png?ex=68f4d0f4&is=68f37f74&hm=99ca346189cd3323bbc6f93f1c43a9832b7d855650c0c3412c4ebd1ff318dd5a" width="50" alt="Превью">
 
 <img src="https://media.discordapp.net/attachments/1374311310501875752/1428816471592669306/f1cbf28a253c49016d1bdaf3bec5fee8.jpg?ex=68f3e088&is=68f28f08&hm=2b383f97d127049e8a01993f81619944b0ee19fd24dc8f2d4ae83272f0c0f252&=&format=webp&width=354&height=629" width="50%" alt="Превью">
 

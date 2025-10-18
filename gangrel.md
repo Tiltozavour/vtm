@@ -1,7 +1,9 @@
 
-# Гангрел
+# Гангрел  <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429075442199167096/Gangrel_symbol.png?ex=68f4d1b8&is=68f38038&hm=2dc3df84082df027afa3bac4607042f4fec9fcee439dcab417d4c4db7161f577" width="50" alt="Превью">
 
-![gangrel](https://cdn.discordapp.com/attachments/1374311310501875752/1428821823054676140/5e0ed05ff22edf7f65c67b0373cd8835.jpg?ex=68f3e584&is=68f29404&hm=e3c7c1e2d13850d7e55b55fe040211d2753cf231ff949af0175bfed3acb6fc61)
+
+<img src="https://cdn.discordapp.com/attachments/1374311310501875752/1428821823054676140/5e0ed05ff22edf7f65c67b0373cd8835.jpg?ex=68f3e584&is=68f29404&hm=e3c7c1e2d13850d7e55b55fe040211d2753cf231ff949af0175bfed3acb6fc61" width="50%" alt="Превью">
+
 > «Здесь тебе не место, и ты уже зашёл слишком далеко. Беги, человечек».
 
 **Прозвище:** Варвары.\

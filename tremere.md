@@ -1,7 +1,7 @@
 
 # Тремер <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429071315188453376/Tremere_symbol.png?ex=68f4cde0&is=68f37c60&hm=debf3401b0adb57ac56fc329ab76df9ff10f9b79fad6ae2f0974c333f9991b4f" width="50" alt="Превью">
 
-<img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429068307293798410/e9050a05fbd4a075d17b56c6a95abd26.jpg?ex=68f4cb13&is=68f37993&hm=b02ae674f7de30115f189cd499425481e2476abf0d25b5851724711746d4a3a2" width="50%" alt="Превью">
+<img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429068307293798410/e9050a05fbd4a075d17b56c6a95abd26.jpg?ex=68f4cb13&is=68f37993&hm=b02ae674f7de30115f189cd499425481e2476abf0d25b5851724711746d4a3a2" width="40%" alt="Превью">
 
 > «То, что мир не желает давать, владыка мира может взять сам».
 

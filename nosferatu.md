@@ -1,5 +1,7 @@
-# Носферату
-![nosferatu](https://cdn.discordapp.com/attachments/1374311310501875752/1429060986521780304/cd10dc719e47824a653fe42bbb7d8f40.jpg?ex=68f4c441&is=68f372c1&hm=24c71e1f00348e054db5a2ce800f5ef28655a38bb13b916691ad15b4c2bcb229)
+# Носферату <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429076898926956574/1024px-Nosferatu_symbol.png?ex=68f4d313&is=68f38193&hm=e5fd61a4d11002a7b8a6d0d15e10b94f38c3c59469fee65853e36087307ac47c" width="50" alt="Превью">
+
+<img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429060986521780304/cd10dc719e47824a653fe42bbb7d8f40.jpg?ex=68f4c441&is=68f372c1&hm=24c71e1f00348e054db5a2ce800f5ef28655a38bb13b916691ad15b4c2bcb229" width="50%" alt="Превью">
+
 > «Никого тут нет, кроме нас, чудищ. Эй, чья это голова?».
 
 **Прозвище:** Крысы.\

@@ -1,8 +1,6 @@
 
 # Вентру
 
-![ventru_simbol](https://cdn.discordapp.com/attachments/1374311310501875752/1429069725769531443/1024px-Ventrue_symbol.png?ex=68f4cc65&is=68f37ae5&hm=5e1e355145d001b62bbe7ce21fbe24b6f0f5dd7c723fbe5d46a6001ecc16dac9)
-
 <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429069725769531443/1024px-Ventrue_symbol.png?ex=68f4cc65&is=68f37ae5&hm=5e1e355145d001b62bbe7ce21fbe24b6f0f5dd7c723fbe5d46a6001ecc16dac9" width="200" alt="Превью">
 
 > «Нет ничего постыдного в том, чтобы преклонить колено перед кем-то вроде меня, так что лучше выкажи, мать твою, почтение, пока я не вышел из себя».

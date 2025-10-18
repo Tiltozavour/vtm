@@ -1,7 +1,8 @@
 
-# Бруха
+# Бруха <img src="https://vtm.paradoxwikis.com/images/thumb/8/87/Brujah_symbol.png/1024px-Brujah_symbol.png?20220712195131" width="50" alt="Превью">
 
-![Brujah](https://media.discordapp.net/attachments/1374311310501875752/1428816471592669306/f1cbf28a253c49016d1bdaf3bec5fee8.jpg?ex=68f3e088&is=68f28f08&hm=2b383f97d127049e8a01993f81619944b0ee19fd24dc8f2d4ae83272f0c0f252&=&format=webp&width=354&height=629)
+<img src="https://media.discordapp.net/attachments/1374311310501875752/1428816471592669306/f1cbf28a253c49016d1bdaf3bec5fee8.jpg?ex=68f3e088&is=68f28f08&hm=2b383f97d127049e8a01993f81619944b0ee19fd24dc8f2d4ae83272f0c0f252&=&format=webp&width=354&height=629" width="50%" alt="Превью">
+
 > «Я дам тебе фору. Как в той сказке. Ты будешь черепахой, а я зайцем. Злобным, жутко голодным и готовым спалить всё к чёртовой матери зайцем, у которого к черепахе 
 кое-какой счётец».
 

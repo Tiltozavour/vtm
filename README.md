@@ -11,6 +11,8 @@
 <details>
   <summary> <h2> Faq </h2> </summary>
 
+  > Вопросы для faq приветствуются
+
 
 <details>
   <summary> <h2> Как устроены вампирские сообщества в мире тьмы </h2> </summary>

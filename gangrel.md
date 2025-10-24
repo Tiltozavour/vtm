@@ -204,7 +204,6 @@
 
   </details>
 
-
   <details> 
   <summary> ••• Слияние с землёй  </summary>
 
@@ -255,13 +254,12 @@
 
  </details>
 
- </details>
 
 </details>
 
 </details>
 
-</details>
+
 
 <details> 
   <summary> <h2> Слабость </h2> </summary>

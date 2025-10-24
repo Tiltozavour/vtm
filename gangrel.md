@@ -175,7 +175,9 @@
 
 **Сложность** -
 
-  </details>
+
+
+
 
   <details> 
   <summary> •• Когти Зверя   </summary>
@@ -254,6 +256,12 @@
 **Сложность** -
 
  </details>
+
+
+
+  </details>
+
+
 
 
 </details>

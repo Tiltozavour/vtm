@@ -1,12 +1,12 @@
 
-# Бруха <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429074620845396008/1024px-Brujah_symbol.png?ex=68f4d0f4&is=68f37f74&hm=99ca346189cd3323bbc6f93f1c43a9832b7d855650c0c3412c4ebd1ff318dd5a" width="50" alt="Превью">
+# Бруха <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429074620845396008/1024px-Brujah_symbol.png?ex=68fcb9f4&is=68fb6874&hm=671fe6aa3705a4037be8d2e460506dff0f0ee8a3e9326bd65feb05cbb5de2db3" width="50" alt="Превью">
 
 <img src="https://media.discordapp.net/attachments/1374311310501875752/1428816471592669306/f1cbf28a253c49016d1bdaf3bec5fee8.jpg?ex=68f3e088&is=68f28f08&hm=2b383f97d127049e8a01993f81619944b0ee19fd24dc8f2d4ae83272f0c0f252&=&format=webp&width=354&height=629" width="40%" alt="Превью">
 
 > «Я дам тебе фору. Как в той сказке. Ты будешь черепахой, а я зайцем. Злобным, жутко голодным и готовым спалить всё к чёртовой матери зайцем, у которого к черепахе 
 кое-какой счётец».
 
-**Прозвище:** Смутьяны\
+**Прозвище:** Смутьяны\Сброд
 **Фракция:** Камарилья\Анархи\Шабаш
 
 <details>

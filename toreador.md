@@ -1,7 +1,7 @@
  
 # Тореадор <img src="https://i.pinimg.com/1200x/d6/9b/18/d69b188156666c05a8316199d0e5a5fb.jpg" width="50" alt="Превью">
 
-<img src="https://i.pinimg.com/736x/6c/97/44/6c9744b4aea4c229865f3d4c86f54132.jpg" width="30%" alt="Превью">
+<img src="https://i.pinimg.com/736x/6c/97/44/6c9744b4aea4c229865f3d4c86f54132.jpg" width="30%" alt="Превью"> <img src="https://i.pinimg.com/736x/2c/75/1b/2c751bd6aee9bc6228dd081965b2181f.jpg" width="30%" alt="Превью">
 
 > «Ты сгниёшь в могиле, а я буду всё так же молод, красив и любим теми, чью жизнь озаряет сияние моей славы».
 

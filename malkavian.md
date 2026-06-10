@@ -1,6 +1,6 @@
-# Малкавиане <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429075867568701601/1024px-Malkavian_symbol.png?ex=68f4d21d&is=68f3809d&hm=5db891a9973295b65df2e8983eef8309b8f7cf7cc5e968987d0677e8807d73ed" width="50" alt="Превью">
+# Малкавиане <img src="https://i.pinimg.com/736x/94/71/32/947132b147fed4ae9a79338dc12793c4.jpg" width="50" alt="Превью">
 
-<img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429011594536554637/3f8f0ac8d9e1364c2c7220317ffaa6f4.jpg?ex=68f49641&is=68f344c1&hm=b86e300ac6e44b644c8a89e7c3b9b8d0174b6c90eb77334077d6859e56a54a79" width="30%" alt="Превью">
+<img src="https://i.pinimg.com/736x/3f/8f/0a/3f8f0ac8d9e1364c2c7220317ffaa6f4.jpg" width="30%" alt="Превью">
 
 > «Я пытался превратить воду в вино. Какого хрена здесь кровь? А, ну да ладно — не пропадать же добру».
 

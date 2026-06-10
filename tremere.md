@@ -1,7 +1,7 @@
 
 # Тремер <img src="https://i.pinimg.com/1200x/83/49/89/834989178f8fc0728b91fc42d6728052.jpg" width="50" alt="Превью">
 
-<img src="https://i.pinimg.com/736x/6a/ff/2a/6aff2a9ff641bbc83bd67b990e36f441.jpg" width="40%" alt="Превью">
+<img src="https://i.pinimg.com/736x/6a/ff/2a/6aff2a9ff641bbc83bd67b990e36f441.jpg" width="40%" alt="Превью"> <img src="https://i.pinimg.com/736x/db/aa/61/dbaa61450a70d638f4e2ff56e1c02d72.jpg" width="40%" alt="Превью">
 
 > «То, что мир не желает давать, владыка мира может взять сам».
 

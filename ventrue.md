@@ -1,4 +1,4 @@
-# Вентру <img src="https://i.pinimg.com/736x/fc/c7/db/fcc7dba225f86b0e1e24eaacc8df7673.jpg" width="50" alt="Превью">
+# Вентру <img src="https://i.pinimg.com/1200x/6e/ec/42/6eec42f039e226653b5fdc34f9845cbc.jpg" width="50" alt="Превью">
 
 <img src="https://i.pinimg.com/736x/f4/9a/13/f49a13a7c6d219eb19b4c93ae36e3401.jpg" width="30%" alt="Превью">
 

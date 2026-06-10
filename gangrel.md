@@ -2,7 +2,10 @@
 # Гангрел  <img src="https://i.pinimg.com/736x/ee/0c/27/ee0c27d24645ac834baca87e7c31634c.jpg" width="50" alt="Превью">
 
 
-<img src="https://i.pinimg.com/736x/d3/44/4f/d3444f1238b0be1b58c2843cf416d89f.jpg" width="30%" alt="Превью">
+<img src="https://i.pinimg.com/736x/d3/44/4f/d3444f1238b0be1b58c2843cf416d89f.jpg" width="30%" alt="Превью"> <img src="https://i.pinimg.com/1200x/c1/95/f8/c195f8167b80d7525983dee510f24d80.jpg" width="30%" alt="Превью"> 
+
+
+
 
 > «Здесь тебе не место, и ты уже зашёл слишком далеко. Беги, человечек».
 

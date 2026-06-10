@@ -1,6 +1,6 @@
-# Носферату <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429076898926956574/1024px-Nosferatu_symbol.png?ex=68fcbc13&is=68fb6a93&hm=934c4b4a8776f87f75ff04fbade04f552c545764e7bb72bfa0da71a07bb00134" width="50" alt="Превью">
+# Носферату <img src="https://i.pinimg.com/736x/2c/90/d5/2c90d5a2013e07e9f5db403c3ce5a91d.jpg" width="50" alt="Превью">
 
-<img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429060986521780304/cd10dc719e47824a653fe42bbb7d8f40.jpg?ex=68fcad41&is=68fb5bc1&hm=c22c25e14f686b79aaf4a6243872de4d9fca18f37ae13b7ba7c1af948def48b3" width="30%" alt="Превью">
+<img src="https://i.pinimg.com/736x/be/cc/b6/beccb66eba3aa48750e7342f77152f4a.jpg" width="30%" alt="Превью">
 
 > «Никого тут нет, кроме нас, чудищ. Эй, чья это голова?».
 

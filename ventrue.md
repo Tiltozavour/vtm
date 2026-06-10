@@ -1,8 +1,6 @@
 # Вентру <img src="https://i.pinimg.com/1200x/6e/ec/42/6eec42f039e226653b5fdc34f9845cbc.jpg" width="50" alt="Превью">
 
-<img src="https://i.pinimg.com/736x/f4/9a/13/f49a13a7c6d219eb19b4c93ae36e3401.jpg" width="30%" alt="Превью">
-
-<img src="https://i.pinimg.com/736x/42/f9/ab/42f9ab0f5ee3f261288eee1d461e82b0.jpg" width="30%" alt="Превью">
+<img src="https://i.pinimg.com/736x/f4/9a/13/f49a13a7c6d219eb19b4c93ae36e3401.jpg" width="30%" alt="Превью"> <img src="https://i.pinimg.com/736x/42/f9/ab/42f9ab0f5ee3f261288eee1d461e82b0.jpg" width="30%" alt="Превью">
 
 > «Нет ничего постыдного в том, чтобы преклонить колено перед кем-то вроде меня, так что лучше выкажи, мать твою, почтение, пока я не вышел из себя».
 

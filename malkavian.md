@@ -1,6 +1,6 @@
 # Малкавиане <img src="https://i.pinimg.com/736x/94/71/32/947132b147fed4ae9a79338dc12793c4.jpg" width="50" alt="Превью">
 
-<img src="https://i.pinimg.com/736x/3f/8f/0a/3f8f0ac8d9e1364c2c7220317ffaa6f4.jpg" width="30%" alt="Превью">
+<img src="https://i.pinimg.com/736x/3f/8f/0a/3f8f0ac8d9e1364c2c7220317ffaa6f4.jpg" width="30%" alt="Превью"> <img src="https://i.pinimg.com/736x/d3/59/e1/d359e1f5e2280cde8eec2eb297f192f9.jpg" width="30%" alt="Превью">
 
 > «Я пытался превратить воду в вино. Какого хрена здесь кровь? А, ну да ладно — не пропадать же добру».
 

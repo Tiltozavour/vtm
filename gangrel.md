@@ -1,8 +1,8 @@
 
-# Гангрел  <img src="https://cdn.discordapp.com/attachments/1374311310501875752/1429075442199167096/Gangrel_symbol.png?ex=68f4d1b8&is=68f38038&hm=2dc3df84082df027afa3bac4607042f4fec9fcee439dcab417d4c4db7161f577" width="50" alt="Превью">
+# Гангрел  <img src="https://i.pinimg.com/736x/ee/0c/27/ee0c27d24645ac834baca87e7c31634c.jpg" width="50" alt="Превью">
 
 
-<img src="https://cdn.discordapp.com/attachments/1374311310501875752/1428821823054676140/5e0ed05ff22edf7f65c67b0373cd8835.jpg?ex=68f3e584&is=68f29404&hm=e3c7c1e2d13850d7e55b55fe040211d2753cf231ff949af0175bfed3acb6fc61" width="30%" alt="Превью">
+<img src="https://i.pinimg.com/736x/d3/44/4f/d3444f1238b0be1b58c2843cf416d89f.jpg" width="30%" alt="Превью">
 
 > «Здесь тебе не место, и ты уже зашёл слишком далеко. Беги, человечек».
 

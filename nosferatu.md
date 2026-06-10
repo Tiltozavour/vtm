@@ -1,6 +1,6 @@
 # Носферату <img src="https://i.pinimg.com/736x/2c/90/d5/2c90d5a2013e07e9f5db403c3ce5a91d.jpg" width="50" alt="Превью">
 
-<img src="https://i.pinimg.com/736x/be/cc/b6/beccb66eba3aa48750e7342f77152f4a.jpg" width="30%" alt="Превью">
+<img src="https://i.pinimg.com/736x/be/cc/b6/beccb66eba3aa48750e7342f77152f4a.jpg" width="30%" alt="Превью"> <img src="https://i.pinimg.com/736x/cd/10/dc/cd10dc719e47824a653fe42bbb7d8f40.jpg" width="30%" alt="Превью">
 
 > «Никого тут нет, кроме нас, чудищ. Эй, чья это голова?».
 

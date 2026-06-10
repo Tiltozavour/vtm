@@ -1,7 +1,7 @@
 
 # Бруха <img src="https://i.pinimg.com/736x/5f/ed/24/5fed248cdf3f91fb7d2607820933f08c.jpg" width="50" alt="Превью">
 
-<img src="https://i.pinimg.com/736x/42/26/e5/4226e5438b361a84ad1a5bacdd529e65.jpg" width="40%" alt="Превью">
+<img src="https://i.pinimg.com/736x/42/26/e5/4226e5438b361a84ad1a5bacdd529e65.jpg" width="40%" alt="Превью"> <img src="https://i.pinimg.com/736x/26/20/8d/26208dcb4520f446bb4dd2a97d8e970c.jpg" width="40%" alt="Превью">
 
 > «Я дам тебе фору. Как в той сказке. Ты будешь черепахой, а я зайцем. Злобным, жутко голодным и готовым спалить всё к чёртовой матери зайцем, у которого к черепахе 
 кое-какой счётец».
